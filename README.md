@@ -12,4 +12,4 @@ List of files:
 
 Author of Kaboom: [slmjkdbtl](https://repl.it/@slmjkdbtl)<br>
 Main website: https://KaBoomjs-Template.slmjkdbtl.repl.co<br>
-Source code: https://repl.it/@slmjkdbtl/KaBoomjs-Template<br>
+Source code: https://repl.it/@slmjkdbtl/KaBoomjs-Template or github repo https://github.com/replit/kaboom<br>
