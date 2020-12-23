@@ -10,6 +10,6 @@ List of files:
 
 ***
 
-Author of Kaboom: [slmjkdbtl](https://repl.it/@slmjkdbtl)
-Main website: https://KaBoomjs-Template.slmjkdbtl.repl.co
-Source code: https://repl.it/@slmjkdbtl/KaBoomjs-Template
+Author of Kaboom: [slmjkdbtl](https://repl.it/@slmjkdbtl)<br>
+Main website: https://KaBoomjs-Template.slmjkdbtl.repl.co<br>
+Source code: https://repl.it/@slmjkdbtl/KaBoomjs-Template<br>
